@@ -48,7 +48,7 @@
       <p class="card-text">Cantidad : &nbsp <?php echo $producto['cantidad']?></p>
 
       <div class="buttonMercadoPago">
-      <a href="<?php echo $preference->init_point; ?>" class="btn btn-primary">comprar</a>
+      <a href="<?php echo $preference->init_point; ?>" class="btn btn-primary">Suscribirse</a>
       </div>
     </div>
   </div>
