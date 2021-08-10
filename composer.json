@@ -1,0 +1,12 @@
+{
+    "name": "maria/suscripcion-mercado-pago",
+    "authors": [
+        {
+            "name": "martinimicaela",
+            "email": "mariamicaelamartini@hotmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "^2.4"
+    }
+}
